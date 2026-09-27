@@ -6,3 +6,6 @@ dropdown:
   Coming from Explorer+QTTabbar, I missed the dropdown funcionality in the "toolbar" addon.
 
   Use: Add a new item, select type "Folder dropdown" and choose a folder in the "options" button. On click, show a dropdown list with the   content of the folder; on double-click, open the folder in a new tab.
+
+recyclebin:
+  Adds a toolbar icon to use the recycle bin
