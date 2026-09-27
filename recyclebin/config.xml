@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<TablacusExplorer>  
+	<General>  
+		<Id>recyclebin</Id>  
+		<Name>Recycle Bin</Name>  
+		<Version>1.00</Version>  
+		<Creator>flibiofav</Creator>
+		<URL>https://github.com/flibiofav/MyTEAddons</URL>
+		<Level>2</Level>  
+		<MinVersion>24.1</MinVersion>  
+		<Type>button</Type>
+		<Options>Common:5,6:5</Options>
+		<Description>Adds a Recycle Bin button to the toolbar with an empty-bin submenu and auto-updating icon.</Description>  
+		<License>MIT License</License>  
+		<pubDate>2026,9,26</pubDate>  
+	</General>  
+	<en>  
+		<Name>Recycle Bin</Name>  
+		<Description>Adds a Recycle Bin button to the toolbar with an empty-bin submenu and auto-updating icon.</Description>  
+	</en>  
+	<ca>  
+		<Name>Paperera de reciclatge</Name>  
+		<Description>Afegeix un botó de la paperera a la barra d'eines amb un submenú per buidar-la i icona autoactualitzada.</Description>  
+	</ca>  
+</TablacusExplorer>
